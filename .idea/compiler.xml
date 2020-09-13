@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-data-jdbc" />
+        <module name="yang-spring-boot-starter-autoconfigurer" />
+        <module name="spring_annotation" />
+        <module name="spring-boot-cache" />
+        <module name="spring-boot-es" />
+        <module name="springTest" />
+        <module name="mavenTest" />
+        <module name="mavenAnnotation" />
+        <module name="jdbcTemplate" />
+        <module name="spring-boot-data-mybatis" />
+        <module name="ssmTest" />
+        <module name="servlet3.0" />
+        <module name="springboot_restfulCRUD" />
+        <module name="springmvcTest" />
+        <module name="springboot_quick" />
+        <module name="yang-spring-boot-starter" />
+        <module name="spring-boot-security" />
+        <module name="spring-boot-amqp" />
+        <module name="springbootTest" />
+        <module name="SSM_CRUD" />
+        <module name="anno_tx" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="13">
+      <module name="anno_tx" target="1.5" />
+      <module name="jdbcTemplate" target="1.5" />
+      <module name="mavenAnnotation" target="1.5" />
+      <module name="mavenTest" target="1.5" />
+      <module name="servlet3.0" target="1.8" />
+      <module name="spring-boot-amqp" target="1.5" />
+      <module name="spring-boot-cache" target="1.8" />
+      <module name="spring-boot-data-jdbc" target="1.8" />
+      <module name="spring-boot-data-mybatis" target="1.8" />
+      <module name="spring-boot-es" target="1.8" />
+      <module name="spring-boot-security" target="1.8" />
+      <module name="spring_annotation" target="6" />
+      <module name="springboot_quick" target="1.8" />
+      <module name="springboot_restfulCRUD" target="1.8" />
+      <module name="springbootTest" target="1.8" />
+      <module name="springmvcTest" target="1.8" />
+      <module name="springTest" target="1.5" />
+      <module name="SSM_CRUD" target="1.7" />
+      <module name="ssmTest" target="1.8" />
+      <module name="yang-spring-boot-starter" target="1.5" />
+      <module name="yang-spring-boot-starter-autoconfigurer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-amqp" options="-parameters" />
+      <module name="spring-boot-cache" options="-parameters" />
+      <module name="spring-boot-data-jdbc" options="-parameters" />
+      <module name="spring-boot-data-mybatis" options="-parameters" />
+      <module name="spring-boot-es" options="-parameters" />
+      <module name="spring-boot-security" options="-parameters" />
+      <module name="springbootTest" options="-parameters" />
+      <module name="springboot_quick" options="-parameters" />
+      <module name="springboot_restfulCRUD" options="-parameters" />
+      <module name="yang-spring-boot-starter-autoconfigurer" options="-parameters" />
+    </option>
+  </component>
+</project>

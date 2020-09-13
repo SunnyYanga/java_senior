@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM_CRUD/SSM_CRUD.iml" filepath="$PROJECT_DIR$/SSM_CRUD/SSM_CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTest/WebTest.iml" filepath="$PROJECT_DIR$/WebTest/WebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anno_tx/anno_tx.iml" filepath="$PROJECT_DIR$/anno_tx/anno_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/day12.iml" filepath="$PROJECT_DIR$/day12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcTemplate/jdbcTemplate.iml" filepath="$PROJECT_DIR$/jdbcTemplate/jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_1/jdbc_1.iml" filepath="$PROJECT_DIR$/jdbc_1/jdbc_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_2/jdbc_2.iml" filepath="$PROJECT_DIR$/jdbc_2/jdbc_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenAnnotation/mavenAnnotation.iml" filepath="$PROJECT_DIR$/mavenAnnotation/mavenAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenTest/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest/mavenTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet3.0/servlet3.0.iml" filepath="$PROJECT_DIR$/servlet3.0/servlet3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-amqp/spring-boot-amqp.iml" filepath="$PROJECT_DIR$/spring-boot-amqp/spring-boot-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" filepath="$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-es/spring-boot-es.iml" filepath="$PROJECT_DIR$/spring-boot-es/spring-boot-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" filepath="$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springTest/springTest.iml" filepath="$PROJECT_DIR$/springTest/springTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_annotation/spring_annotation.iml" filepath="$PROJECT_DIR$/spring_annotation/spring_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootTest/springbootTest.iml" filepath="$PROJECT_DIR$/springbootTest/springbootTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_quick/springboot_quick.iml" filepath="$PROJECT_DIR$/springboot_quick/springboot_quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_restfulCRUD/springboot_restfulCRUD.iml" filepath="$PROJECT_DIR$/springboot_restfulCRUD/springboot_restfulCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvcTest/springmvcTest.iml" filepath="$PROJECT_DIR$/springmvcTest/springmvcTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmTest/ssmTest.iml" filepath="$PROJECT_DIR$/ssmTest/ssmTest.iml" />
+      <module fileurl="file://D:/workspace/workspace_05/yang-spring-boot-starter/yang-spring-boot-starter.iml" filepath="D:/workspace/workspace_05/yang-spring-boot-starter/yang-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yang-spring-boot-starter-autoconfigurer/yang-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/yang-spring-boot-starter-autoconfigurer/yang-spring-boot-starter-autoconfigurer.iml" />
+    </modules>
+  </component>
+</project>

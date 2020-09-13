@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/servlet3.0" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvcTest" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM_CRUD" />
+    <file type="web" url="file://$PROJECT_DIR$/ssmTest" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mavenTest/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springTest/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/anno_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvcTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ssmTest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet3.0/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM_CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_restfulCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-es/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security/pom.xml" />
+        <option value="D:/workspace/workspace_05/yang-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-spring-boot-starter-autoconfigurer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

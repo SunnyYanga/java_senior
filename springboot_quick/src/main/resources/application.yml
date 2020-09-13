@@ -1,0 +1,10 @@
+#person:
+#    name: 张三
+#    age: 18
+
+#person: {name: zhangsan, age: 18}
+
+yang:
+  hello:
+    prefix: HAHAHA
+    suffix: HAHAHAOOOO
